@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c1d17fdd.css",
-    "main.js": "/static/js/main.ff8dff57.js",
+    "main.js": "/static/js/main.6866ee56.js",
     "static/js/787.56a0b0b5.chunk.js": "/static/js/787.56a0b0b5.chunk.js",
     "static/media/futureskill-react-chat-application.png": "/static/media/futureskill-react-chat-application.b9865590676d2b9eb70e.png",
     "static/media/futureskill-html5-css3-javascript.png": "/static/media/futureskill-html5-css3-javascript.b7571b918062d9383a57.png",
@@ -39,11 +39,11 @@
     "static/media/angular.svg": "/static/media/angular.00d10ea694079f70b937fd1d5d7afc20.svg",
     "static/media/microsoft-azure.svg": "/static/media/microsoft-azure.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
     "main.c1d17fdd.css.map": "/static/css/main.c1d17fdd.css.map",
-    "main.ff8dff57.js.map": "/static/js/main.ff8dff57.js.map",
+    "main.6866ee56.js.map": "/static/js/main.6866ee56.js.map",
     "787.56a0b0b5.chunk.js.map": "/static/js/787.56a0b0b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d17fdd.css",
-    "static/js/main.ff8dff57.js"
+    "static/js/main.6866ee56.js"
   ]
 }
