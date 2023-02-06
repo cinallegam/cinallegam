@@ -85,19 +85,14 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cinallegam
-
 [Html5]: https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26
 [Css3]: https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6
 [SQLite]: https://img.shields.io/badge/SQLite-35495E?style=for-the-badge&logo=SQLite&logoColor=white
 [Mongo.db]: https://img.shields.io/badge/MongoDB-3E6E93?style=for-the-badge&logo=MongoDB&logoColor=47A248
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032
-
-![test][SQLite]
-
 [mySql]: https://img.shields.io/badge/Mysql-3E6E93?style=for-the-badge&logo=MySql&logoColor=white
 [mySql.url]: https://www.mysql.com/
 [docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white
