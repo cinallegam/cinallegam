@@ -114,7 +114,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [JavaScript-url]: https://www.ecma-international.org/
 
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
-[Node-url]: https://https://nodejs.org/en/
+[Node-url]: https://nodejs.org/en/
 
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
 [Express-url]: https://expressjs.com/
