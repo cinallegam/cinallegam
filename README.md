@@ -14,21 +14,21 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ![Html5][Html5]
-* ![Css][Css3]
-* ![JavaScript][JavaScript]
-* ![NodeJs][Node.js]
-* ![ExpressJs][Express.js]
+* [![Html5][Html5]][Html5-url]
+* [![Css][Css3]][Css3-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
+* [![NodeJs][Node.js]][Node-url]
+* [![ExpressJs][Express.js]][Express-url]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* ![MySql][MySql]
-* ![SQLite][SQLite]
-* ![MongoDB][Mongo.db]
-* ![Docker][Docker]
+* [![MySql][MySql]][MySql-url]
+* [![SQLite][SQLite]][SQLite-url]
+* [![MongoDB][Mongo.db]][Mongo-url]
+* [![Docker][Docker]][Docker-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,34 +90,34 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/cinallegam
 
 [Html5]: https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26
-[Html5.url]: https://html.spec.whatwg.org/
+[Html5-url]: https://html.spec.whatwg.org/
 
 [Css3]: https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6
-[Css3.url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 [SQLite]: https://img.shields.io/badge/SQLite-35495E?style=for-the-badge&logo=SQLite&logoColor=white
-[SQLite.url]: https://www.sqlite.org/
+[SQLite-url]: https://www.sqlite.org/
 
 [Mongo.db]: https://img.shields.io/badge/MongoDB-3E6E93?style=for-the-badge&logo=MongoDB&logoColor=47A248
-[Mongo.url]: https://www.mongodb.com/
+[Mongo-url]: https://www.mongodb.com/
 
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032
-[Git.url]: https://git-scm.com/
+[Git-url]: https://git-scm.com/
 
 [mySql]: https://img.shields.io/badge/Mysql-3E6E93?style=for-the-badge&logo=MySql&logoColor=white
-[mySql.url]: https://www.mysql.com/
+[mySql-url]: https://www.mysql.com/
 
 [docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white
-[docker.url]: https://www.docker.com/
+[docker-url]: https://www.docker.com/
 
 [JavaScript]: https://img.shields.io/badge/Javascript-35495E?style=for-the-badge&logo=javascript&logoColor=ffb13b
-[JavaScript.url]: https://www.ecma-international.org/
+[JavaScript-url]: https://www.ecma-international.org/
 
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
-[Node.url]: https://https://nodejs.org/en/
+[Node-url]: https://https://nodejs.org/en/
 
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white
-[Express.url]: https://expressjs.com/
+[Express-url]: https://expressjs.com/
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
