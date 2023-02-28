@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.23711084.css",
-    "main.js": "/static/js/main.50d7fb07.js",
+    "main.css": "/static/css/main.a7648ccf.css",
+    "main.js": "/static/js/main.ca30296c.js",
     "static/js/787.56a0b0b5.chunk.js": "/static/js/787.56a0b0b5.chunk.js",
     "static/media/byredo_cover.png": "/static/media/byredo_cover.1444c3a84b544c617800.png",
     "static/media/according_perfume.png": "/static/media/according_perfume.bab15fec0fabfe28dd33.png",
-    "static/media/pyramid-perfume.jpg": "/static/media/pyramid-perfume.11f0a0f274cc1737e5ea.jpg",
+    "static/media/social_cover.jpg": "/static/media/social_cover.4b0ac9ffef5436b096aa.jpg",
     "static/media/oriental.png": "/static/media/oriental.84eac59fca10b5ce361c.png",
     "static/media/futureskill-react-chat-application.png": "/static/media/futureskill-react-chat-application.b9865590676d2b9eb70e.png",
     "static/media/orpheon.png": "/static/media/orpheon.5e2bf0fd786cc18ebf0b.png",
@@ -16,11 +16,14 @@
     "static/media/mikrotik.svg": "/static/media/mikrotik.d2e17a6764779d1cc982433d85aeeb58.svg",
     "static/media/borntodev-get-started-azure-app-service.png": "/static/media/borntodev-get-started-azure-app-service.833d87f61292620f2b3f.png",
     "static/media/borntodev-essential-sql.png": "/static/media/borntodev-essential-sql.ff609325c6470b686201.png",
+    "static/media/pyramid-perfume.jpg": "/static/media/pyramid-perfume.c269074581e58a0219a3.jpg",
     "static/media/concentration-perfume.png": "/static/media/concentration-perfume.40d679d0d4924a48df7e.png",
     "static/media/udemy-typescript.png": "/static/media/udemy-typescript.6f0b83b253eb48edbc92.png",
+    "static/media/perfumer_cover.png": "/static/media/perfumer_cover.115bfb08c02db0eae46f.png",
     "static/media/borntodev-intro-to-computer-science.png": "/static/media/borntodev-intro-to-computer-science.fc0e03978d5429d8d783.png",
     "static/media/profile.png": "/static/media/profile.b9212e34d7ee65e67444.png",
     "static/media/linux.svg": "/static/media/linux.32a9bcd0350f51b5188852a775332b6c.svg",
+    "static/media/Overlooked-Social-Media.svg": "/static/media/Overlooked-Social-Media.2f15d0c688e40bfd39651afd2f973762.svg",
     "static/media/react.svg": "/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
     "static/media/bash.svg": "/static/media/bash.9e769001e7aaa8f0e6d77c541525677e.svg",
     "static/media/nodejs.svg": "/static/media/nodejs.cc3d45a160579a330a5c17cc2c8f1407.svg",
@@ -47,12 +50,12 @@
     "static/media/digitalocean.svg": "/static/media/digitalocean.2d08b86431c2c0792a142ca23bebab15.svg",
     "static/media/angular.svg": "/static/media/angular.00d10ea694079f70b937fd1d5d7afc20.svg",
     "static/media/microsoft-azure.svg": "/static/media/microsoft-azure.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
-    "main.23711084.css.map": "/static/css/main.23711084.css.map",
-    "main.50d7fb07.js.map": "/static/js/main.50d7fb07.js.map",
+    "main.a7648ccf.css.map": "/static/css/main.a7648ccf.css.map",
+    "main.ca30296c.js.map": "/static/js/main.ca30296c.js.map",
     "787.56a0b0b5.chunk.js.map": "/static/js/787.56a0b0b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23711084.css",
-    "static/js/main.50d7fb07.js"
+    "static/css/main.a7648ccf.css",
+    "static/js/main.ca30296c.js"
   ]
 }
