@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7648ccf.css",
-    "main.js": "/static/js/main.08914fc7.js",
+    "main.css": "/static/css/main.6e2c4a51.css",
+    "main.js": "/static/js/main.42e0d653.js",
     "static/js/787.56a0b0b5.chunk.js": "/static/js/787.56a0b0b5.chunk.js",
     "static/media/byredo_cover.png": "/static/media/byredo_cover.1444c3a84b544c617800.png",
     "static/media/according_perfume.png": "/static/media/according_perfume.bab15fec0fabfe28dd33.png",
@@ -50,12 +50,12 @@
     "static/media/digitalocean.svg": "/static/media/digitalocean.2d08b86431c2c0792a142ca23bebab15.svg",
     "static/media/angular.svg": "/static/media/angular.00d10ea694079f70b937fd1d5d7afc20.svg",
     "static/media/microsoft-azure.svg": "/static/media/microsoft-azure.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
-    "main.a7648ccf.css.map": "/static/css/main.a7648ccf.css.map",
-    "main.08914fc7.js.map": "/static/js/main.08914fc7.js.map",
+    "main.6e2c4a51.css.map": "/static/css/main.6e2c4a51.css.map",
+    "main.42e0d653.js.map": "/static/js/main.42e0d653.js.map",
     "787.56a0b0b5.chunk.js.map": "/static/js/787.56a0b0b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7648ccf.css",
-    "static/js/main.08914fc7.js"
+    "static/css/main.6e2c4a51.css",
+    "static/js/main.42e0d653.js"
   ]
 }
