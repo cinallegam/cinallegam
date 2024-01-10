@@ -6,6 +6,7 @@
 * 📜  See my Personal Website at [My Website](https://me.cinallegam.com)
 * ✉️  You can contact me at [cinallegam@gmail.com](mailto:cinallegam@gmail.com)
 * 🧠  I'm learning a new framework
+* 🐥  I'm started a developer team with friends.
 
 <!-- PROJECT LOGO -->
 <!-- <br />
