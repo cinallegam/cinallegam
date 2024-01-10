@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0&height=250&section=header&text=Hi%20There%20👋%20I'm%20Cinallegam&fontSize=60&fontAlignY=35&animation=fadeIn)
 * 🙋🏻  I'm 29 years old Full-Stack developer
 * 🌍  I'm based in Khonkaen, Thailand
-* 🖥️  See my portfolio at [My Github Repositories](http://github.com/cinallegam?tab=repositories)
+* 🖥️  See my portfolio at [My Github Repositories](https://github.com/cinallegam?tab=repositories)
+* 📜  See my Personal Website at [My Website](https://me.cinallegam.com)
 * ✉️  You can contact me at [cinallegam@gmail.com](mailto:cinallegam@gmail.com)
 * 🧠  I'm learning a new framework
 
