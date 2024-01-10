@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0&height=250&section=header&text=Hi%20There%20👋%20I'm%20Cinallegam&fontSize=60&fontAlignY=35&animation=fadeIn)
-<script>123</script>
+
 * 🙋🏻  I'm 29 years old Full-Stack developer
 * 🌍  I'm based in Khonkaen, Thailand
 * 🖥️  See my portfolio at [My Github Repositories](http://github.com/cinallegam?tab=repositories)
