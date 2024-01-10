@@ -186,13 +186,14 @@ This is an example of how to list things you need to use the software and how to
 -->
 
 
-
+<!--
 ## Roadmap
 - [x] Add back to top links
 - [ ] Multi-language Support
     - [ ] Thai
-
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
 
@@ -227,13 +228,6 @@ End Contact
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/cinallegam" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" height="32" />
-    </picture>
-  </a>
   <a href="http://www.medium.com/@cinallegam" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
@@ -241,8 +235,14 @@ End Contact
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" height="32" />
     </picture>
   </a>
+  <a href="https://www.linkedin.com/in/cinallegam" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" height="32" />
+    </picture>
+  </a>
 </p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
