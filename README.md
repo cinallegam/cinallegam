@@ -212,7 +212,7 @@ End Contact
 
 
 
-## Contact
+## Socials
 <p align="left">
   <a href="https://discord.com/users/cnlg" target="_blank" rel="noreferrer">
     <picture>
